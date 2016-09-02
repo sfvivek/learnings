@@ -1,6 +1,6 @@
 #Mastering Python Design Patterns
 
-###This repo has all the examples of various python design patterns
+This repo has all the examples of various python design patterns taught in "Mastering Python Design Patterns" book
 
 ##Type of Design patterns
 
